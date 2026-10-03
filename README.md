@@ -1,3 +1,7 @@
+MAKONGA NGOY Orlyne 
+2024022347
+Bac3 IAGE
+le 03/10/2026
 This repository implements an efficient and adaptive reasoning framework for Large Language Models (LLMs) operating on heterogeneous graphs. It introduces a multi-agent system with a dual-evolving mechanism that jointly optimizes:
 
 Graph-Evolving: Dynamic subgraph construction, pruning, and edge reweighting for task-specific relevance.
